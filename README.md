@@ -1,12 +1,11 @@
-# Book Recommendation App
+اپلیکیشن پیشنهاد کتاب
+یک اپلیکیشن Flutter برای پیشنهاد و نمایش کتاب‌ها.
 
-A Flutter application for recommending and displaying books.
-
-## Features
-- View a list of recommended books
-- Detailed book descriptions
-- Save user preferences using `shared_preferences`
-- Responsive design for multiple platforms (Windows, Web, Android, iOS)
+ویژگی‌ها
+مشاهده لیستی از کتاب‌های پیشنهادی.
+توضیحات دقیق کتاب.
+ذخیره ترجیحات کاربر با استفاده از کتابخانه shared_preferences.
+طراحی ریسپانسیو برای پلتفرم‌های مختلف (ویندوز، وب، اندروید، iOS).
 
 ## Installation
 1. Clone the repository:
